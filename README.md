@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/devanshi_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshi_singh" height="30" width="40" /></a><a href="https://instagram.com/devanshi.singh.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devanshi.singh.17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devanshi-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshi-singh" height="30" width="40" /></a>
+<a href="https://instagram.com/devanshi.singh.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devanshi.singh.17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devanshi_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshi_singh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/devanshi6qcy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devanshi6qcy" height="30" width="40" /></a>
 </p>
